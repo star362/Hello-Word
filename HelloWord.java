@@ -8,6 +8,9 @@ public class HelloWord {
 		Schllo sch=new Schllo();
 		System.out.println("============="+sch.getAge());
 		System.out.println("============="+sch.getSg());
+        
+        
+//        666666
 	 }
 	
 
