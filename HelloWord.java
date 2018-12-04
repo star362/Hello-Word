@@ -10,9 +10,7 @@ public class HelloWord {
 		System.out.println("============="+sch.getSg());
         
         
-//        666666
-//     77777
-//    8888 hello
+
 	 }
 	
 
