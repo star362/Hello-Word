@@ -1,7 +1,7 @@
 server:
   port: 8090
 demo: 
-  test: local
+  test: localhost
 # spring:
 #   application:
 #     name: config-client
