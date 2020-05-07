@@ -4,7 +4,7 @@ demo:
   test: local
 spring:
   application:
-    name: config-cloud
+    name: config-client
 eureka:
   instance:
     prefer-ip-address: true

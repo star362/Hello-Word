@@ -4,7 +4,7 @@ server:
   port: 8089
 spring:
   application:
-    name: config-cloud
+    name: config-client
 eureka:
   instance:
     prefer-ip-address: true
